@@ -1,7 +1,3 @@
-"""
-Misc functions, including distributed helpers and model loaders
-Also include a model loader specified for finetuning EfficientViT
-"""
 import io
 import os
 import time
