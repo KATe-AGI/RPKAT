@@ -1,9 +1,8 @@
 # --------------------------------------------------------
-# Efficient Main (train/validate)
-# Copyright (c) 2022 Microsoft
-# Adapted from LeViT and Swin Transformer
-#   LeViT: (https://github.com/facebookresearch/levit)
+# RPKAT Main (validate)
+# Adapted from Swin Transformer and EfficientViT
 #   Swin: (https://github.com/microsoft/swin-transformer)
+#   EfficientViT: (https://github.com/microsoft/Cream/tree/main/EfficientViT)
 # --------------------------------------------------------
 import argparse
 import torch
