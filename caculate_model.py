@@ -4,7 +4,7 @@ please install the following packages:
 `pip install timm fvcore`
 
 Example command:
-python count.py --model RPKAT
+python caculate_model --model RPKAT
 
 code reference to: https://github.com/KATe-AGI/RPKAT/caculate_model.py
 '''
